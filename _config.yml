@@ -35,10 +35,10 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Utku Oğul Bolat
-  email: utkuogulbolat@gmail.com # change to your email address
+  email: utkuogulbolat250@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/utku250 # change to your twitter homepage
+    - https://twitter.com/ # change to your twitter homepage
     - https://github.com/Utku-Ogul # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
