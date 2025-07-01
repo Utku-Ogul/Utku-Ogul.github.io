@@ -1,37 +1,19 @@
 [
-  
   {
     "title": "Devise Nedir Ve Devise Nasıl Kullanılır?",
     "url": "/posts/devise-nedir/",
     "categories": "RubyonRails, Devise",
     "tags": "Devise",
     "date": "2024-09-03 11:00:00 +0300",
-    
-
-
-
-
-
-    
-    "snippet": "Devise Nedir?Devise, Ruby on Rails uygulamaları için geliştirilmiş bir kimlik doğrulama (authentication) ve kullanıcı yönetimi özümüdür. Kullanıcı oturumları, kayıtlar, şifre kurtarma, kullanıcı ro...",
-    "content": "Devise Nedir?Devise, Ruby on Rails uygulamaları için geliştirilmiş bir kimlik doğrulama (authentication) ve kullanıcı yönetimi özümüdür. Kullanıcı oturumları, kayıtlar, şifre kurtarma, kullanıcı rolü gibi işlemleri kolayca gerçekleştirmek için birçok hazır fonksiyona sahiptir. Kısacası, Rails projelerinde hızlı ve güvenli bir kimlik doğrulama sistemi kurmanıza yardımcı olur ve genellikle kullanıcı yönetimi gerektiren projelerde yaygın olarak kullanılır.Devise Nasıl Kullanılır?Devise Gem’ini kurmaProjemizde devise kullanmak için öncelikle Gemfile’agem 'devise'eklememiz gerekmektedir. Sonrasında terminalebundle installyazarak gemleri yüklüyoruz."
+    "content": "Bu yazının içeriğinde devise notlarım ve devise kullanıma ait bilgiler olacaktır."
   },
-  
   {
     "title": "Git Nedir Ve Git Komutları?",
     "url": "/posts/git-nedir/",
     "categories": "Software, Git",
     "tags": "git",
     "date": "2024-07-19 11:00:00 +0300",
-    
-
-
-
-
-
-    
-    "snippet": "Git Nedir?Git bir versiyon kontrol sistemidir. İlk sürümü 2005 yılında Linus Torvalds tarafından geliştirilmiştir. Büyük projelerde birçok yazılımcının birlikte çalışmasını kalaylaştıran bir progra...",
-    "content": "Git Nedir?Git bir versiyon kontrol sistemidir. İlk sürümü 2005 yılında Linus Torvalds tarafından geliştirilmiştir. Büyük projelerde birçok yazılımcının birlikte çalışmasını kalaylaştıran bir programdır. Projelerde dallanma ve birleştirme işlemleri hızlı ve etkilidir. Detaylı versiyon takibi ile her değişiklik kaydedilir ve gerektiğinde geri alınabilir.Git Komut Listesi-Git configgit config --global user.name \"Kullanıcı Adı\"git config --global user.email \"email@email.com\"Git’i ilk kullanmadan önce kullanıcı bilgilerinizi yapılandırmanız gerekmektedir. Bu işlemi birkez yapmanız yeterli olucaktır.-Git initgit initYeni bir Git deposu (repository) oluşturur. Bu depo yerelde oluşur. Bu komut, mevcut bir projeyi bir Git deposuna dönüştürmek için kullanılır.-Git clonegit clone **repo linki**Mevcut bir Git deposunu kopyalar. Bu komut, bir uzak depodan yerel bir kopya oluşturur.-Git addgit add **dosya adı**git add .Çalışma dizinindeki değişiklikleri staging alanına ekler. Bu komut, bir dosya veya dizindeki değişiklikleri sonraki commit için hazırlar. Dosyanın adı yazılırsa sadece o dosyayı ekler eğer “.” konulursa yapılan değişikliklerin hepsini ekler.-Git commitgit commit -m \" **açıklama mesajı** \"Staging alanındaki değişiklikleri kalıcı olarak depoya kaydeder. Her commit, projedeki bir değişikliği temsil eder. Bu şekilde de açıklama mesajı ile hangi değişikliğin yapıldığını geliştiricilere gösterir.-Git statusgit statusÇalışma dizinindeki ve staging alanındaki dosyaların durumunu gösterir. Hangi dosyaların değiştirildiğini, silindiğini ve yeni eklendiğini ve commit yapılacak dosyaları gösterir.-Git loggit loggit log --onelineRepodaki commit geçmişini gösterir. Commitlerin Idlierni, tarihini, yazarını ve mesajlarını görüntüler.-Git branchgit branch -d **branch adı**Branchı silmek için kullanılır.-Git checkoutgit checkout -b **yeni branch**Bu komut, tek bir adımda hem yeni bir dal oluşturur ve bunu seçer.-Git fetchgit fetch **branch adı**Uzak repodaki değişiklikleri yerel depoya indirir ancak bu değişiklikleri otomatik olarak mevcut dal ile birleştirmez.-Git mergegit merge **branch adı**İndirilen değişiklikleri mevcut branche entegre eder. Çakışmaları çözmeniz gerekebilir.-Git pullgit pull origin **branch adı**Uzak depodaki değişiklikleri indirir ve mevcut dalınıza birleştirir. Fetch ve merge’in aynı anda kullanmımına denktir.-Git pushgit push origin **branch adı**Yerel deponuzdaki değişiklikleri uzak depoya gönderir.-Git diffgit diff **commit-id-1** **commit-id-2**Bu komut, iki commit arasındaki farkları göstermek için kullanılır.-Git resetgit reset --soft **commit id**git reset --mixed **commit id**git reset --hard **commit id**Soft : Commit’i geri alır ve değişiklikleri aşama alanında tutar.Mixed : Commit geçmişinizi geri alır ve aşama alanını sıfırlar, ancak çalışma alanındaki değişiklikler korunur.Hard : Commit’e geri dönülür ve aşama alanındaki ve çalışma alanındaki değişiklikleri siler.-Git revertgit revert **commit id**Commit’in etkilerini geri alır ve yeni bir commit oluşturur.-Git rebasegit rebase **branch adı**Mevcut dalınızı başka bir dalın üzerine taşır."
+    "content": "Bu yazının içeriğinde git notlarım ve git komutları vardır."
   }
   
 ]

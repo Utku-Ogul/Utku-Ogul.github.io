@@ -1,6 +1,6 @@
 const swconf = {
   
-    cacheName: 'chirpy-1725368504',resources: [
+    cacheName: 'chirpy-1751367802',resources: [
       '/assets/css/jekyll-theme-chirpy.css',
       '/',
       
@@ -20,7 +20,8 @@ const swconf = {
         '/assets/js/dist/home.min.js',
         '/assets/js/dist/misc.min.js',
         '/assets/js/dist/page.min.js',
-        '/assets/js/dist/post.min.js'
+        '/assets/js/dist/post.min.js',
+        '/assets/js/dist/theme.min.js'
     ],
 
     interceptor: {paths: [
