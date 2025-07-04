@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Utku Ogul Bolat</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-07-01T14:03:22+03:00</updated>
+  <updated>2025-07-04T15:33:18+03:00</updated>
   <author>
     <name>Utku Oğul Bolat</name>
     <uri>http://localhost:4000/</uri>
@@ -20,11 +20,65 @@
 
   
   <entry>
+    <title>NumPy ile Görsel İşleme</title>
+    <link href="http://localhost:4000/posts/numpy-images/" rel="alternate" type="text/html" title="NumPy ile Görsel İşleme" />
+    <published>2025-07-04T15:00:00+03:00</published>
+  
+    <updated>2025-07-04T15:00:00+03:00</updated>
+  
+    <id>http://localhost:4000/posts/numpy-images/</id>
+    <content type="text/html" src="http://localhost:4000/posts/numpy-images/" />
+    <author>
+      <name>Utku Oğul Bolat</name>
+    </author>
+
+  
+    
+    <category term="NumPy" />
+    
+    <category term="OpenCV" />
+    
+    <category term="Python" />
+    
+  
+
+  <summary>NumPy, PIL ve matplotlib kullanarak bir görselin kırmızı kanal ayrıştırması ve görselleştirilmesi işlemleri.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>NumPy Temelleri</title>
+    <link href="http://localhost:4000/posts/numpy/" rel="alternate" type="text/html" title="NumPy Temelleri" />
+    <published>2025-07-04T14:00:00+03:00</published>
+  
+    <updated>2025-07-04T14:00:00+03:00</updated>
+  
+    <id>http://localhost:4000/posts/numpy/</id>
+    <content type="text/html" src="http://localhost:4000/posts/numpy/" />
+    <author>
+      <name>Utku Oğul Bolat</name>
+    </author>
+
+  
+    
+    <category term="NumPy" />
+    
+    <category term="Python" />
+    
+  
+
+  <summary>Bu yazıda NumPy kütüphanesiyle ilgili temel komutlar, açıklamalar ve örnek çıktılar yer almaktadır.</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>Devise Nedir Ve Devise Nasıl Kullanılır?</title>
     <link href="http://localhost:4000/posts/devise-nedir/" rel="alternate" type="text/html" title="Devise Nedir Ve Devise Nasıl Kullanılır?" />
     <published>2024-09-03T11:00:00+03:00</published>
   
-    <updated>2024-11-20T10:48:25+03:00</updated>
+    <updated>2025-07-01T14:05:27+03:00</updated>
   
     <id>http://localhost:4000/posts/devise-nedir/</id>
     <content type="text/html" src="http://localhost:4000/posts/devise-nedir/" />

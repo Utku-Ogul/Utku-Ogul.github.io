@@ -1,5 +1,21 @@
 [
   {
+    "title": "NumPy ile Görsel İşleme",
+    "url": "/posts/numpy-images/",
+    "categories": "NumPy, OpenCV, Python",
+    "tags": "numpy, görüntü işleme, python, pil",
+    "date": "2025-07-04 15:00:00 +0300",
+    "content": "NumPy, PIL ve matplotlib kullanarak bir görselin kırmızı kanal ayrıştırması ve görselleştirilmesi işlemleri."
+  },
+  {
+    "title": "NumPy Temelleri",
+    "url": "/posts/numpy/",
+    "categories": "NumPy, Python",
+    "tags": "NumPy, Veri Analizi, Python",
+    "date": "2025-07-04 14:00:00 +0300",
+    "content": "Bu yazıda NumPy kütüphanesiyle ilgili temel komutlar, açıklamalar ve örnek çıktılar yer almaktadır."
+  },
+  {
     "title": "Devise Nedir Ve Devise Nasıl Kullanılır?",
     "url": "/posts/devise-nedir/",
     "categories": "RubyonRails, Devise",
