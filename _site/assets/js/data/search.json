@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenCV ile Görsel Açma ve İşleme",
+    "url": "/posts/opencv-imagebasics/",
+    "categories": "OpenCV, Python",
+    "tags": "opencv, görüntü işleme, python",
+    "date": "2025-07-04 18:00:00 +0300",
+    "content": "Bu yazıda OpenCV ile görsel okuma, RGB dönüşümü, colormap uygulamaları ve yeniden boyutlandırma işlemleri ele alınmıştır."
+  },
+  {
     "title": "NumPy ile Görsel İşleme",
     "url": "/posts/numpy-images/",
     "categories": "NumPy, OpenCV, Python",

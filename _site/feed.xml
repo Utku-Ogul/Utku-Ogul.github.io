@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Utku Ogul Bolat</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-07-04T15:33:18+03:00</updated>
+  <updated>2025-07-11T03:38:01+03:00</updated>
   <author>
     <name>Utku Oğul Bolat</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,32 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>OpenCV ile Görsel Açma ve İşleme</title>
+    <link href="http://localhost:4000/posts/opencv-imagebasics/" rel="alternate" type="text/html" title="OpenCV ile Görsel Açma ve İşleme" />
+    <published>2025-07-04T18:00:00+03:00</published>
+  
+    <updated>2025-07-04T18:00:00+03:00</updated>
+  
+    <id>http://localhost:4000/posts/opencv-imagebasics/</id>
+    <content type="text/html" src="http://localhost:4000/posts/opencv-imagebasics/" />
+    <author>
+      <name>Utku Oğul Bolat</name>
+    </author>
+
+  
+    
+    <category term="OpenCV" />
+    
+    <category term="Python" />
+    
+  
+
+  <summary>Bu yazıda OpenCV ile görsel okuma, RGB dönüşümü, colormap uygulamaları ve yeniden boyutlandırma işlemleri ele alınmıştır.</summary>
+
+  </entry>
 
   
   <entry>
